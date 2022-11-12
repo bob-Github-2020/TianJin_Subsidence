@@ -2,6 +2,10 @@ I use this site to temporarily archieve some data and figure files enclosed in a
 
 Xiao Yu, Guoquan Wang, Xie Hu, Yuhao Liu, and Yan Bao (2022). Land subsidence in Tianjin, China: before and after the South-to-North Water Diversion (usbmitted to Geophysical Research Letter)
 
+
+![Fig1_Xiao_TJ](https://user-images.githubusercontent.com/65426380/201451591-a8168e0d-ae0c-4f85-8376-ca9555b84e0f.jpg)
+
+
 ![image](https://user-images.githubusercontent.com/65426380/201450930-33e99e3b-6187-47d2-98e5-c96ff474a83e.png)
 
 The locations of three routes of the South-to-North Water Diversion (SNWD) project and continuous GPS stations used in this study (JIXN, TJBD, TJWQ, QING, TJBH, and HECX). 
@@ -10,7 +14,8 @@ The locations of three routes of the South-to-North Water Diversion (SNWD) proje
 
 GPS-derived daily subsidence time series at five sites (JIXN, TJBD, TJBH, TJWQ, QING) in Tianjin and one site (HECX) in Cangzhou, Hebei Province. The locations of these GPS sites are marked in Figure 1.
 
-![image](https://user-images.githubusercontent.com/65426380/201451003-9e5394d0-7782-4bf3-aa58-46f2d6825bd8.png)
+
+![Water_Use](https://user-images.githubusercontent.com/65426380/201451611-19ba7b6e-f7c9-4b10-bba8-56c471c44a1b.jpg)
 
 Water supplies in Tianjin from 2010 to 2021. The total water supply transformed to Tianjin by the South-to-North Water Diversion (SNWD) project is approximately 7 billion m3 from 2015 to 2021. (Data source: Tianjin Water Resources Bulletins, 2010 to 2021). 
 
