@@ -8,6 +8,8 @@ Xiao Yu, Guoquan Wang, Xie Hu, Yuhao Liu, and Yan Bao (2022). Land subsidence in
 ![Fig1_Xiao_TJ](https://user-images.githubusercontent.com/65426380/201451591-a8168e0d-ae0c-4f85-8376-ca9555b84e0f.jpg)
 
 
+![Fig1_Xiao_TJ_Color](https://user-images.githubusercontent.com/65426380/201452427-a8e6c1ea-2084-4020-b05c-670ad80f5f61.jpg)
+
 
 ![image](https://user-images.githubusercontent.com/65426380/201450930-33e99e3b-6187-47d2-98e5-c96ff474a83e.png)
 
