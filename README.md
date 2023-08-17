@@ -9,9 +9,7 @@ Yu, X.; Wang, G.; Hu, X.; Liu, Y.; Bao, Y. Land Subsidence in Tianjin, China: Be
 
 ![Fig1_Xiao_TJ](https://user-images.githubusercontent.com/65426380/201451591-a8168e0d-ae0c-4f85-8376-ca9555b84e0f.jpg)
 
-
 ![Fig1_Xiao_TJ_Color](https://user-images.githubusercontent.com/65426380/201452427-a8e6c1ea-2084-4020-b05c-670ad80f5f61.jpg)
-
 
 ![image](https://user-images.githubusercontent.com/65426380/201450930-33e99e3b-6187-47d2-98e5-c96ff474a83e.png)
 
@@ -20,7 +18,6 @@ The locations of three routes of the South-to-North Water Diversion (SNWD) proje
 ![GPS](https://user-images.githubusercontent.com/65426380/201450850-376da882-f6fb-4b93-99b1-205be7b503b3.jpg)
 
 GPS-derived daily subsidence time series at five sites (JIXN, TJBD, TJBH, TJWQ, QING) in Tianjin and one site (HECX) in Cangzhou, Hebei Province. The locations of these GPS sites are marked in Figure 1.
-
 
 ![Water_Use](https://user-images.githubusercontent.com/65426380/201451611-19ba7b6e-f7c9-4b10-bba8-56c471c44a1b.jpg)
 
