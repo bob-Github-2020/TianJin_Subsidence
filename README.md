@@ -2,7 +2,9 @@
 
 I use this site to temporarily archieve some data and figure files enclosed in a recent paper:
 
-Xiao Yu, Guoquan Wang, Xie Hu, Yuhao Liu, and Yan Bao (2022). Land subsidence in Tianjin, China: before and after the South-to-North Water Diversion (Sbmitted to Geophysical Research Letter)
+Yu, X.; Wang, G.; Hu, X.; Liu, Y.; Bao, Y. Land Subsidence in Tianjin, China: Before and after the South-to-North Water Diversion. Remote Sens. 2023, 15, 1647. https://doi.org/10.3390/rs15061647,  https://www.mdpi.com/2072-4292/15/6/1647
+
+[Uploading 2023_Xiao_Wang_TJ_remotesensing-15-01647.pdf…]()
 
 
 ![Fig1_Xiao_TJ](https://user-images.githubusercontent.com/65426380/201451591-a8168e0d-ae0c-4f85-8376-ca9555b84e0f.jpg)
